@@ -21,6 +21,13 @@
 
 //Code Here
 
+user = { 
+username, 
+email, 
+getUsername: function(){
+  returns this.username(user)
+  }
+}
 
 
 ////////// PROBLEM 2 //////////
